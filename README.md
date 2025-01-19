@@ -16,7 +16,9 @@ cd search-algorithms
 
 bash
 python search_algorithms.py
+
 Purpose of the Code
+
 This project implements two fundamental search algorithms: Binary Search and Linear Search. The objective is to practice core data structures and understand the concepts of searching.
 
 Time Complexity
