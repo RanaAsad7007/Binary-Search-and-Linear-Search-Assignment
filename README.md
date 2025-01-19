@@ -26,4 +26,5 @@ Time Complexity
 •Binary Search: O(log n) - In the worst case, the algorithm continually divides the search space in half.
 
 Printing Worst Case of Binary Search
+
 The worst-case scenario for Binary Search is when the element is not present in the array. In this case, the algorithm will perform log₂(n) comparisons. For example, in an array of size 16, Binary Search will perform at most 4 comparisons (log₂(16) = 4).
