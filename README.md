@@ -30,3 +30,6 @@ Time Complexity
 Printing Worst Case of Binary Search
 
 The worst-case scenario for Binary Search is when the element is not present in the array. In this case, the algorithm will perform log₂(n) comparisons. For example, in an array of size 16, Binary Search will perform at most 4 comparisons (log₂(16) = 4).
+
+LinkedIn Post
+https://www.linkedin.com/posts/asad-islam-516b93347_coding-softwaredevelopment-datastructures-activity-7286763509026082816-aZ_K?utm_source=share&utm_medium=member_desktop
