@@ -2,17 +2,17 @@
 Implementation of Binary and Linear Search
 How to Run the Program
 
-1.Clone the Repository:
+1. Clone the Repository:
 
 bash
 git clone https://github.com/your-username/search-algorithms.git
 
-2.Navigate to the Project Directory:
+2. Navigate to the Project Directory:
 
 bash
 cd search-algorithms
 
-3.Run the Program:
+3. Run the Program:
 
 bash
 python search_algorithms.py
