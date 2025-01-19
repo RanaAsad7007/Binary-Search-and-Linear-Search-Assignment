@@ -20,6 +20,7 @@ Purpose of the Code
 This project implements two fundamental search algorithms: Binary Search and Linear Search. The objective is to practice core data structures and understand the concepts of searching.
 
 Time Complexity
+
 •Linear Search: O(n) - In the worst case, the algorithm may need to check all n elements.
 
 •Binary Search: O(log n) - In the worst case, the algorithm continually divides the search space in half.
